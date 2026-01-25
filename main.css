@@ -1,0 +1,58 @@
+h1,
+body,
+p {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: pink;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.advance-btn-container {
+  width: 360px;
+  display: flex;
+  justify-content: center;
+}
+
+.advance-btn {
+  font-family: "Courier New", Courier, monospace;
+  text-decoration: none;
+  background-color: rgb(202, 112, 127);
+  border: none;
+  color: white;
+  text-align: center;
+  margin-bottom: 50px;
+  border-radius: 20px;
+  font-size: 20px;
+  width: 300px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.note {
+  margin-bottom: 20px;
+  border: 2px solid rgb(202, 110, 126);
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 300px;
+  padding: 30px;
+  background-color: white;
+}
+
+.note-text {
+  line-height: 30px;
+}
+
+.greeting-text {
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: "Pacifico", cursive;
+}
