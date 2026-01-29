@@ -45,6 +45,10 @@ body {
   width: 300px;
   padding: 30px;
   background-color: white;
+  display: flex;
+  justify-center: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .note-text {
@@ -55,4 +59,8 @@ body {
   margin-bottom: 50px;
   text-align: center;
   font-family: "Pacifico", cursive;
+}
+
+.photo {
+ text-align: center;
 }
