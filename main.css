@@ -62,4 +62,5 @@ body {
 .photo {
  display: flex;
  justify-center: center;
+ flex-direction: column;
 }
