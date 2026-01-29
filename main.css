@@ -47,8 +47,6 @@ body {
   background-color: white;
   display: flex;
   justify-center: center;
-  align-items: center;
-  height: 100vh;
 }
 
 .note-text {
