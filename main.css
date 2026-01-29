@@ -60,5 +60,6 @@ body {
 }
 
 .photo {
- text-align: center;
+ display: flex;
+ justify-center: center;
 }
